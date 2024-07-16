@@ -1,4 +1,4 @@
-# Fall Detection Dataset
+# Visionary Vigilance: Optimized YOLOV8 for Fallen Person Detection with Large-Scale Benchmark Dataset
 
 ## Overview
 This repository contains the ways of progressive modifications in the proposed networkk and also contain a diverse and comprehensive dataset for fall detection research. The dataset is a large-scale benchmark comprising approximately 10,500 samples with corresponding annotations.
