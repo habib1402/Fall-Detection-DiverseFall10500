@@ -1,7 +1,7 @@
 # Fall Detection Dataset
 
 ## Overview
-This repository contains a diverse and comprehensive dataset for fall detection research. Falls pose a significant risk to elderly individuals, patients with neurological disorders, and disabled children, necessitating the development of real-time intelligent fall detection (FD) systems. To address the limitations in existing approaches and facilitate advancements in the field, we have curated a large-scale dataset comprising approximately 10,500 samples with corresponding annotations.
+This repository contains the ways of progressive modifications in the proposed networkk and also contain a diverse and comprehensive dataset for fall detection research. The dataset is a large-scale benchmark comprising approximately 10,500 samples with corresponding annotations.
 
 ## Dataset Details
 - **Sample Size:** Approximately 10,500 samples
