@@ -19,7 +19,3 @@ If you use this dataset or our proposed approach in your research work, we kindl
 
 ## Contact
 For any inquiries or issues regarding the dataset, please contact [habibkhan@ieee.org]. We welcome feedback and collaboration opportunities.
-
----
-
-Feel free to replace the placeholder link and citation as needed.
