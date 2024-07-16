@@ -1,7 +1,3 @@
-Certainly! Here's a template for your GitHub repository with the updated email address:
-
----
-
 # Fall Detection Dataset
 
 ## Overview
