@@ -10,7 +10,7 @@ This repository contains the ways of progressive modifications in the proposed n
 - **Format:** The dataset is provided in a structured format to enable easy integration with popular machine learning frameworks.
 
 ## Usage
-Researchers and practitioners interested in fall detection research can utilize this dataset for training, testing, and evaluating fall detection models. The dataset can be accessed via the following Google Drive link: [Fall Detection Dataset](#).
+Researchers and practitioners interested in fall detection research can utilize this dataset for training, testing, and evaluating fall detection models. The dataset can be accessed via the following Google Drive link: [Fall Detection Dataset](https://drive.google.com/drive/folders/1OvXAcmfMHdiCpcuAj-VCAMxNFi_p2_TD?usp=drive_link).
 
 ## Citation
 If you use this dataset or our proposed approach in your research work, we kindly request you to cite the following paper:
