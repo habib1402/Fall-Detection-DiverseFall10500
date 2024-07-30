@@ -16,7 +16,7 @@ The Focus module is used at the beginning of the backbone:
 backbone:
   - [-1, 1, Focus, [64, 3, 2]]
 ## Convolutional Block Attention Modules (CBAMs) Integrations:
-head:
+
   - [-1, 1, CBAM, [1024]]
   ...
   - [-1, 1, CBAM, [512]]
