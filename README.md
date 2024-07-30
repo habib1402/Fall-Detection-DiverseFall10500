@@ -12,6 +12,26 @@ Falls pose a significant risk to elderly people, patients with diseases such as 
 
 ## Usage
 Researchers interested in fall detection research can utilize this dataset. The data will be soon available via the following Google Drive link: [Fall Detection Dataset](https://drive.google.com/drive/folders/1OvXAcmfMHdiCpcuAj-VCAMxNFi_p2_TD?usp=drive_link).
+# Integration of Focus Module and CBAMs Integration
+## Focus Module
+The Focus module is used at the beginning of the backbone:
+backbone:
+  - [-1, 1, Focus, [64, 3, 2]]
+## Convolutional Block Attention Modules (CBAMs) Integrations:
+head:
+  - [-1, 1, CBAM, [1024]]
+  ...
+  - [-1, 1, CBAM, [512]]
+  ...
+  - [-1, 1, CBAM, [256]]
+  ...
+  - [-1, 1, CBAM, [512]]
+In the YAML file, CBAMs are integrated:
+After the SPPF (Spatial Pyramid Pooling - Fast) layer
+Before each upsampling operation in the feature pyramid
+Before each downsampling operation in the feature pyramid
+This strategic placement of CBAMs allows the network to refine and focus on the most relevant features at different scales and stages of the network, potentially improving the model's ability to detect objects accurately across various sizes and complexities.
+The integration of Focus and CBAM modules in this YOLOv8 architecture aims to enhance the model's feature extraction and attention capabilities, potentially leading to improved object detection performance.
 
 ## Citation
 If you use this dataset or our proposed approach in your research work, we kindly request you to cite our paper:
