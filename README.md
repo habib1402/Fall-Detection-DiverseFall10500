@@ -26,6 +26,7 @@ head:
   - [-1, 1, CBAM, [256]]
   ...
   - [-1, 1, CBAM, [512]]
+
 In the YAML file, CBAMs are integrated:
 After the SPPF (Spatial Pyramid Pooling - Fast) layer
 Before each upsampling operation in the feature pyramid
