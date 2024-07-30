@@ -45,4 +45,4 @@ If you use this dataset or our proposed approach in your research work, we kindl
 }
 
 ## Contact
-For any issues regarding the dataset, please contact [habibkhan@ieee.org]. We welcome feedback and collaboration opportunities.
+For any issues, please contact [habibkhan@ieee.org]. We welcome feedback and collaboration opportunities.
