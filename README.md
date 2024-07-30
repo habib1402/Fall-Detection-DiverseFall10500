@@ -9,7 +9,7 @@ Falls pose a significant risk to elderly people, patients with diseases such as 
 - **Annotations:** Each sample is annotated to denote instances of falls and non-falls.
 - **Diversity:** The dataset encompasses diverse environmental conditions and scenarios, facilitating robust real-time processing.
 - **Format:** The dataset is provided in a structured format to enable easy use for detection and recognition frameworks.
-- **Format:** Researchers interested in fall detection research can utilize this dataset. The data will be soon available via email request at [habibkhan@ieee.org].
+- **Data Availability:** Researchers interested in fall detection research can utilize this dataset. The data will be soon available via email request at [habibkhan@ieee.org].
 # Integration of Focus Module and CBAMs Integration
 ## Focus Module
 The Focus module is used at the beginning of the backbone:
