@@ -31,6 +31,19 @@ Before each upsampling operation in the feature pyramid
 Before each downsampling operation in the feature pyramid
 This strategic placement of CBAMs allows the network to refine and focus on the most relevant features at different scales and stages of the network, potentially improving the model's ability to detect objects accurately across various sizes and complexities.
 The integration of Focus and CBAM modules in this YOLOv8 architecture aims to enhance the model's feature extraction and attention capabilities, potentially leading to improved object detection performance.
+## Learn How to Annotate your Dataset Using Labelimg for YOLO family models
+Labelimg: Label Dataset Images for YOLO Object Detection Image Annotation (MRI Tumor Dataset)
+https://youtu.be/47-IS_tZcTE
+In the video, you can see how to use labelimg to annotate your images for YOLO object detection. This is perfect if you are prepare you images for YOLO11 or other version of YOLO using your own dataset or if you are trying to add more labels to an existing one. 
+
+0:00 Introduction
+0:13 Prepare Dataset Images
+1:46 YOLO Data Format and Class Index 
+2:21 Install Labelimg
+2:28 Run Labelimg 
+2:35 Labelimg Windows Error - Fix canvas.py line 530 error with drawLine function 
+3:02 Label Image with Labelimg 
+3:46 Save and View Labels
 
 ## Citation
 If you use this dataset or our proposed approach in your research work, we kindly request you to cite our paper:
